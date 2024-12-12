@@ -1,6 +1,4 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=300&section=header&text=Seyeon's Github%20render&fontSize=90)
-<!--
+## Seyeon's Github 👋
 **seyeon102424/seyeon102424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
