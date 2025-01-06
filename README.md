@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1010&color=4D93F7&width=435&lines=Welcome+to+Seyeon's+Github)](https://git.io/typing-svg)
-//## Seyeon's Github 👋
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyeon102424)](https://github.com/seyeon102424/github-readme-stats)
+
+
+Seyeon's Github 👋
 **seyeon102424/seyeon102424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
