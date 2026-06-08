@@ -11,7 +11,6 @@
     </div>
     
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyeon102424)](https://github.com/seyeon102424/github-readme-stats)
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
